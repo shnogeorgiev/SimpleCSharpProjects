@@ -1,0 +1,5 @@
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 02. Laptop Shop\bin\Debug\Defining_Classes___02.Laptop_Shop.exe.config
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 02. Laptop Shop\bin\Debug\Defining_Classes___02.Laptop_Shop.exe
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 02. Laptop Shop\bin\Debug\Defining_Classes___02.Laptop_Shop.pdb
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 02. Laptop Shop\obj\Debug\Defining_Classes___02.Laptop_Shop.exe
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 02. Laptop Shop\obj\Debug\Defining_Classes___02.Laptop_Shop.pdb

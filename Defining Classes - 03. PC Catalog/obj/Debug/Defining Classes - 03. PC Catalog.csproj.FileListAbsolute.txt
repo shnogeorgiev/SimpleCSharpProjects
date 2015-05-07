@@ -1,0 +1,6 @@
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 03. PC Catalog\bin\Debug\Defining_Classes___03.PC_Catalog.exe.config
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 03. PC Catalog\bin\Debug\Defining_Classes___03.PC_Catalog.exe
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 03. PC Catalog\bin\Debug\Defining_Classes___03.PC_Catalog.pdb
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 03. PC Catalog\obj\Debug\Defining Classes - 03. PC Catalog.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 03. PC Catalog\obj\Debug\Defining_Classes___03.PC_Catalog.exe
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 03. PC Catalog\obj\Debug\Defining_Classes___03.PC_Catalog.pdb

@@ -1,0 +1,6 @@
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 04. S.U.L.S\bin\Debug\Defining_Classes___04.S.U.L.S.exe.config
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 04. S.U.L.S\obj\Debug\Defining_Classes___04.S.U.L.S.exe
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 04. S.U.L.S\obj\Debug\Defining_Classes___04.S.U.L.S.pdb
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 04. S.U.L.S\bin\Debug\Defining_Classes___04.S.U.L.S.exe
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 04. S.U.L.S\bin\Debug\Defining_Classes___04.S.U.L.S.pdb
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\cSharp OOP Homework\Defining Classes - 04. S.U.L.S\obj\Debug\Defining Classes - 04. S.U.L.S.csprojResolveAssemblyReference.cache

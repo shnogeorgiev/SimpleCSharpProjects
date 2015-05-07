@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Defining_Classes___04.S.U.L.S.Person">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAQAAAAEAAAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defining_Classes___04.S.U.L.S.Trainer">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defining_Classes___04.S.U.L.S.GraduateStudent">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GraduateStudent.cs</FileName>
+      <NewMemberFileName>Student.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defining_Classes___04.S.U.L.S.SeniorTrainer">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>SeniorTrainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defining_Classes___04.S.U.L.S.CurrentStudent">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAA=</HashCode>
+      <FileName>CurrentStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defining_Classes___04.S.U.L.S.DropoutStudent">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>DropoutStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defining_Classes___04.S.U.L.S.JuniorTrainer">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JuniorTrainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defining_Classes___04.S.U.L.S.OnlineStudent">
+    <Position X="3.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OnlineStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defining_Classes___04.S.U.L.S.OnsiteStudent">
+    <Position X="8" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>OnsiteStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defining_Classes___04.S.U.L.S.Student">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAQAAAAEAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

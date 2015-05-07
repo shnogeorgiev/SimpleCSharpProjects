@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2013\Projects\cSharp OOP Homework\Defining Classes - 01. Persons\bin\Debug\Defining_Classes___01.Persons.exe.config
+c:\users\home\documents\visual studio 2013\Projects\cSharp OOP Homework\Defining Classes - 01. Persons\obj\Debug\Defining Classes - 01. Persons.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2013\Projects\cSharp OOP Homework\Defining Classes - 01. Persons\bin\Debug\Defining_Classes___01.Persons.exe
+c:\users\home\documents\visual studio 2013\Projects\cSharp OOP Homework\Defining Classes - 01. Persons\bin\Debug\Defining_Classes___01.Persons.pdb
+c:\users\home\documents\visual studio 2013\Projects\cSharp OOP Homework\Defining Classes - 01. Persons\obj\Debug\Defining_Classes___01.Persons.exe
+c:\users\home\documents\visual studio 2013\Projects\cSharp OOP Homework\Defining Classes - 01. Persons\obj\Debug\Defining_Classes___01.Persons.pdb
