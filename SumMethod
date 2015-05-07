@@ -1,0 +1,3 @@
+public static void SumMethod (int a, int b) {
+	Console.WriteLine(a + b);
+}
