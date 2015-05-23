@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\Shano\Software Studies\SoftUni\Advanced C#\Functional Programming\Functional Programming\Excel\bin\Debug\Excel.exe.config
+C:\Users\HOME\Desktop\Shano\Software Studies\SoftUni\Advanced C#\Functional Programming\Functional Programming\Excel\bin\Debug\Excel.exe
+C:\Users\HOME\Desktop\Shano\Software Studies\SoftUni\Advanced C#\Functional Programming\Functional Programming\Excel\bin\Debug\Excel.pdb
+C:\Users\HOME\Desktop\Shano\Software Studies\SoftUni\Advanced C#\Functional Programming\Functional Programming\Excel\obj\Debug\Excel.exe
+C:\Users\HOME\Desktop\Shano\Software Studies\SoftUni\Advanced C#\Functional Programming\Functional Programming\Excel\obj\Debug\Excel.pdb
+C:\Users\HOME\Desktop\Shano\Software Studies\SoftUni\Advanced C#\Functional Programming\Functional Programming\Excel\obj\Debug\Excel.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\Shano\Software Studies\SoftUni\Advanced C#\Functional Programming\Functional Programming\Excel\bin\Debug\ExcelLibrary.dll
